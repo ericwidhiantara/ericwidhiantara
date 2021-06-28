@@ -1,4 +1,4 @@
-Backend & Mobile Developer. Flutter & Web Crawling Enthusiast.
+Backend & Mobile Developer.
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ericwidhiantara)](https://github.com/ericwidhiantara/github-contribution-stats/)
 
